@@ -1,2 +1,2 @@
 # MusicShop
-Simple music shop - project for study
+Simple music shop - project for studies
